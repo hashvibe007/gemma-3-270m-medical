@@ -1,0 +1,9 @@
+.venv
+medgemma-finetune
+__pycache__
+outputs_medical_sft
+processed_dataset
+processed_dataset_medical_sft
+unsloth_compiled_cache
+.env
+GEMINI.md
