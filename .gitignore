@@ -7,3 +7,4 @@ processed_dataset_medical_sft
 unsloth_compiled_cache
 .env
 GEMINI.md
+llama.cpp

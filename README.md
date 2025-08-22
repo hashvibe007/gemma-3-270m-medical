@@ -1,6 +1,6 @@
-# Finetune MedGemma ECG
+# Finetune Gemma
 
-This repository contains code and instructions for finetuning the `gemma-3-270m` model on a medical ECG dataset. The finetuned model is available on [Hugging Face](https://huggingface.co/).
+This repository contains code and instructions for finetuning the `gemma-3-270m` model on a medical ECG dataset. The finetuned model is available on [Hugging Face](https://huggingface.co/hashvibe007/gemma-3-270m-medical-sft-lora).
 
 ## Features
 
